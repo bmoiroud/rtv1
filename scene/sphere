@@ -1,0 +1,12 @@
+scene:
+camera:
+position:
+0 0 0
+#
+sphere:
+dimension:
+10 10 10
+position:
+300 0 0
+#
+end
