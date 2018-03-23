@@ -3,7 +3,6 @@
 ## Project Overview
 
 This project is about creating a simple raytracer from scratch.
-img
 
 ## Installation
 
