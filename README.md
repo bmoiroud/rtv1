@@ -13,7 +13,7 @@ $> git clone https://github.com/bmoiroud/rtv1.git && cd rtv1 && make
 ## Usage
 
 ``` bash
-./rtv1 <scene>
+$> ./rtv1 <scene>
 ```
 
 | Key     | Action             |
