@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project is about creating a simple raytracer from scratch.
+This project is about creating a simple raytracer in C.
+
+<img src="./img/img.png"/>
 
 ## Installation
 
