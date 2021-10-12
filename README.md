@@ -1,8 +1,8 @@
 # rtv1
 
-## Project Overview
+## Description
 
-This project is about creating a simple raytracer in C.
+Le but de ce projet est de créer un raytracer basique
 
 <img src="./img/img.png"/>
 
@@ -12,20 +12,20 @@ This project is about creating a simple raytracer in C.
 $> git clone https://github.com/bmoiroud/rtv1.git && cd rtv1 && make
 ```
 
-## Usage
+## Utilisation
 
 ``` bash
 $> ./rtv1 <scene>
 ```
 
-| Key     | Action             |
+| Touche  | Action             |
 |:-------:|:-------------------|
-| W       | move forward       |
-| A       | move left          |
-| S       | move backward      |
-| D       | move right         |
-| Q       | turn left          |
-| E       | turn right         |
-| Space   | move up            |
-| CTRL    | move down          |
-| esc     | quit               |
+| W       | avancer            |
+| A       | gauche             |
+| S       | reculer            |
+| D       | droite             |
+| Q       | rotation à gauche  |
+| E       | rotation à droite  |
+| Espace  | monter             |
+| CTRL    | descendre          |
+| esc     | quitter            |
